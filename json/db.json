@@ -1,0 +1,32 @@
+{
+    "usuarios": [
+        {
+            "email": "ianregis01@gmail.com",
+            "senha": "250300",
+            "end": "rua 24 de novembro,, 720",
+            "cidade": "Fortaleza",
+            "estado": "CE",
+            "cep": "60841700",
+            "id": "2503"
+        },
+        {
+            "email": "staffany22@gmail.com",
+            "senha": "2505000",
+            "end": "rua 24 de novembro,, 720",
+            "cidade": "Fortaleza",
+            "estado": "CE",
+            "cep": "60841700",
+            "id": "2505"
+        },
+        {
+            "email": "bethrocha2009@hotmail.com",
+            "senha": "050300",
+            "end": "rua 24 de novembro,, 710",
+            "cidade": "Fortaleza",
+            "estado": "CE",
+            "cep": "60841700",
+            "id": "2531"
+        }
+    ],
+    "carros": []
+}
